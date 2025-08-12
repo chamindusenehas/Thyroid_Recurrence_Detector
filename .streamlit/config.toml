@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#007bff"  # Blue for buttons and highlights
+backgroundColor = "#1c2526"  # Dark gray background
+secondaryBackgroundColor = "#2a363b"  # Slightly lighter for containers
+textColor = "#e8ecef"  # Light gray text for readability
+font = "sans serif"
